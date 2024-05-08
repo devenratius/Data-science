@@ -1,3 +1,2 @@
 # Data-science
-Test
-Test edit
+Repository for sharing Data Scientist IBM Course by Coursera projects.
